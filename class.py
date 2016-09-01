@@ -14,4 +14,4 @@ print 'Soy Ernesto tengo', ernesto.edad, 'y mido', ernesto.estatura
 
 juan.hablar('Hola')
 
-ernesto.hablar('Hola, Juan!')
+ernesto.hablar('Hola, Juan')
